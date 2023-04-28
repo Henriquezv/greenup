@@ -1,4 +1,4 @@
-# Parte I
+# GreenUp
 
 A proposta de trabalho prático é implementar um serviço de “gerenciamento de sono” (sleep management) de estações de trabalho que pertencem a um mesmo segmento de rede física de uma grande organização. O objetivo
 do serviço é promover a economia de energia ao incentivar que os colaboradores coloquem suas estações de trabalho para dormir após o termino do expediente na organização. Neste caso, o serviço deve garantir que as
@@ -40,6 +40,3 @@ gcc main.c manager.c guest.c -lpthread -o sms
 ./sms [manager|guest]
 ```
 
-# Parte II
-
-TO-DO
